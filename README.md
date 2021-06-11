@@ -6,7 +6,7 @@
 
 ⚠️ We are a group of friends, doing projects for the *University Nove de Julho, UNINOVE*. It is here that we study Systems Analysis and Development. This profile, for the time being, is completely linked to the project requested by professor **Daniel**, since now my thanks are here.
 
-[![Gmail Badge](https://img.shields.io/badge/newwdoorss1@gmail.com-3f4961?style=flat-square&labelColor=3f4961&logo=Gmail&logoColor=white&link=mailto:newwdoorss1@gmail.com)](mailto:newwdoorss1@gmail.com) [![GitHub NewDoors](https://img.shields.io/github/followers/NewDoors1?label=follow&style=social)](https://github.com/NewDoors1) 
+[![Gmail Badge](https://img.shields.io/badge/newdoors34@gmail.com-3f4961?style=flat-square&labelColor=3f4961&logo=Gmail&logoColor=white&link=mailto:newdoors34@gmail.com)](mailto:newdoors34@gmail.com) [![GitHub NewDoors](https://img.shields.io/github/followers/NewDoors1?label=follow&style=social)](https://github.com/NewDoors2) 
 
 <!-- colocar o github de todo mundo depois e os emails-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
